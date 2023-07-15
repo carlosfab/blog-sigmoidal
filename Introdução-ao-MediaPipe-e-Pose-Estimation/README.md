@@ -1,7 +1,5 @@
 # Introdução ao MediaPipe e Pose Estimation
 
----
-
 **Este repositório contém o código para o artigo [Introdução ao MediaPipe e Pose Estimation](https://sigmoidal.ai/introducao-ao-mediapipe-e-pose-estimation?utm_source=github&utm_content=introducao-ao-mediapipe-e-pose-estimation)**
 
 ---
