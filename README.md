@@ -11,15 +11,15 @@
 
 ---
 
-Repositorio com os Jupyter Notebooks dos artigos publicados no [Sigmoidal.ai](https://sigmoidal.ai), o blog de Data Science e Visao Computacional do Carlos Melo.
+Repositório com os Jupyter Notebooks dos artigos publicados no [Sigmoidal.ai](https://sigmoidal.ai), o blog de Data Science e Visão Computacional do Carlos Melo.
 
-Cada pasta contem o notebook completo com codigo, dados e instrucoes para rodar no Google Colab.
+Cada pasta contém o notebook completo com código, dados e instruções para rodar no Google Colab.
 
 ## Sobre o autor
 
-Carlos Melo e **Data Scientist** com mais de 8 anos de experiencia e especializacao em **Visao Computacional**. Trabalha com Python, PyTorch, TensorFlow e Scikit-learn em projetos de deep learning aplicado. Portador de **Green Card EB1A** (Extraordinary Ability), concedido a profissionais reconhecidos por realizacoes excepcionais em sua area.
+Carlos Melo é **Data Scientist** com mais de 8 anos de experiência e especialização em **Visão Computacional**. Trabalha com Python, PyTorch, TensorFlow e Scikit-learn em projetos de deep learning aplicado. Portador de **Green Card EB1A** (Extraordinary Ability), concedido a profissionais reconhecidos por realizações excepcionais em sua área.
 
-Antes da carreira em dados, foi **piloto militar** com mais de 1.000 horas de voo, executando missoes em condicoes extremas e coordenando operacoes aeroespaciais complexas.
+Antes da carreira em dados, foi **piloto militar** com mais de 1.000 horas de voo, executando missões em condições extremas e coordenando operações aeroespaciais complexas.
 
 ## Notebooks
 
@@ -29,31 +29,31 @@ Antes da carreira em dados, foi **piloto militar** com mais de 1.000 horas de vo
 | [Grad-CAM: Visualizando CNNs](Grad-CAM-Visualizando-CNNs/gradcam_visualizando_cnns.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Grad-CAM-Visualizando-CNNs/gradcam_visualizando_cnns.ipynb) |
 | [Transfer Learning com PyTorch](Transfer-Learning-com-PyTorch/transfer_learning_pytorch.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Transfer-Learning-com-PyTorch/transfer_learning_pytorch.ipynb) |
 | [YOLOv9: Dataset Personalizado](YOLOv9-Dataset-Personalizado/yolov9_dataset_personalizado.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/YOLOv9-Dataset-Personalizado/yolov9_dataset_personalizado.ipynb) |
-| [YOLOv9: Deteccao de Objetos](YOLOv9-Deteccao-de-Objetos/yolov9_deteccao_de_objetos.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/YOLOv9-Deteccao-de-Objetos/yolov9_deteccao_de_objetos.ipynb) |
+| [YOLOv9: Detecção de Objetos](YOLOv9-Deteccao-de-Objetos/yolov9_deteccao_de_objetos.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/YOLOv9-Deteccao-de-Objetos/yolov9_deteccao_de_objetos.ipynb) |
 | [Depth Anything](Depth-Anything/depth_anything.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Depth-Anything/depth_anything.ipynb) |
-| [Deteccao de Blur com FFT](Deteccao-de-Blur-com-FFT/deteccao_blur_fft.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Deteccao-de-Blur-com-FFT/deteccao_blur_fft.ipynb) |
-| [Calibracao de Camera com OpenCV](Calibracao-de-Camera-OpenCV/calibracao_camera_opencv.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Calibracao-de-Camera-OpenCV/calibracao_camera_opencv.ipynb) |
-| [Amostragem e Quantizacao](Amostragem-e-Quantizacao/amostragem_e_quantizacao.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Amostragem-e-Quantizacao/amostragem_e_quantizacao.ipynb) |
-| [Equalizacao de Histograma com OpenCV](Equalização-de-Histograma-com-OpenCV/Equalização_de_Histograma_com_OpenCV.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Equalização-de-Histograma-com-OpenCV/Equalização_de_Histograma_com_OpenCV.ipynb) |
-| [Geometria e Formacao de Imagens](Geometria-Formacao-de-Imagens/geometria_formacao_de_imagens.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Geometria-Formacao-de-Imagens/geometria_formacao_de_imagens.ipynb) |
+| [Detecção de Blur com FFT](Deteccao-de-Blur-com-FFT/deteccao_blur_fft.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Deteccao-de-Blur-com-FFT/deteccao_blur_fft.ipynb) |
+| [Calibração de Câmera com OpenCV](Calibracao-de-Camera-OpenCV/calibracao_camera_opencv.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Calibracao-de-Camera-OpenCV/calibracao_camera_opencv.ipynb) |
+| [Amostragem e Quantização](Amostragem-e-Quantizacao/amostragem_e_quantizacao.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Amostragem-e-Quantizacao/amostragem_e_quantizacao.ipynb) |
+| [Equalização de Histograma com OpenCV](Equalização-de-Histograma-com-OpenCV/Equalização_de_Histograma_com_OpenCV.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Equalização-de-Histograma-com-OpenCV/Equalização_de_Histograma_com_OpenCV.ipynb) |
+| [Geometria e Formação de Imagens](Geometria-Formacao-de-Imagens/geometria_formacao_de_imagens.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Geometria-Formacao-de-Imagens/geometria_formacao_de_imagens.ipynb) |
 | [Processamento de Nuvens de Pontos com Open3D](Processamento-de-Nuvens-de-Pontos-Open3D/processamento_nuvens_pontos_open3d.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Processamento-de-Nuvens-de-Pontos-Open3D/processamento_nuvens_pontos_open3d.ipynb) |
-| [Introducao ao MediaPipe e Pose Estimation](Introdução-ao-MediaPipe-e-Pose-Estimation/introdução_ao_mediapipe_e_pose_estimation.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Introdução-ao-MediaPipe-e-Pose-Estimation/introdução_ao_mediapipe_e_pose_estimation.ipynb) |
-| [ORB-SLAM 3: Guia de Instalacao](ORB-SLAM-3/orb_slam3_guia_instalacao.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/ORB-SLAM-3/orb_slam3_guia_instalacao.ipynb) |
-| [k-NN para Classificacao de Estrelas RR Lyrae](Implementing%20k-Nearest%20Neighbors%20for%20RR%20Lyrae%20Star%20Classification/implementing_k_nearest_neighbors_for_rr_lyrae_star_classification.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Implementing%20k-Nearest%20Neighbors%20for%20RR%20Lyrae%20Star%20Classification/implementing_k_nearest_neighbors_for_rr_lyrae_star_classification.ipynb) |
-| [Redshifts Fotometricos com k-NN](estimating_photometric_redshifts_using_knn.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/estimating_photometric_redshifts_using_knn.ipynb) |
+| [Introdução ao MediaPipe e Pose Estimation](Introdução-ao-MediaPipe-e-Pose-Estimation/introdução_ao_mediapipe_e_pose_estimation.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Introdução-ao-MediaPipe-e-Pose-Estimation/introdução_ao_mediapipe_e_pose_estimation.ipynb) |
+| [ORB-SLAM 3: Guia de Instalação](ORB-SLAM-3/orb_slam3_guia_instalacao.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/ORB-SLAM-3/orb_slam3_guia_instalacao.ipynb) |
+| [k-NN para Classificação de Estrelas RR Lyrae](Implementing%20k-Nearest%20Neighbors%20for%20RR%20Lyrae%20Star%20Classification/implementing_k_nearest_neighbors_for_rr_lyrae_star_classification.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Implementing%20k-Nearest%20Neighbors%20for%20RR%20Lyrae%20Star%20Classification/implementing_k_nearest_neighbors_for_rr_lyrae_star_classification.ipynb) |
+| [Redshifts Fotométricos com k-NN](estimating_photometric_redshifts_using_knn.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/estimating_photometric_redshifts_using_knn.ipynb) |
 
 ## Como usar
 
-Todos os notebooks podem ser executados diretamente no Google Colab. Basta abrir o notebook desejado e clicar no botao "Open in Colab" no topo do arquivo.
+Todos os notebooks podem ser executados diretamente no Google Colab. Basta abrir o notebook desejado e clicar no botão "Open in Colab" no topo do arquivo.
 
 Para rodar localmente:
 
 ```bash
 git clone https://github.com/carlosfab/blog-sigmoidal.git
 cd blog-sigmoidal
-pip install -r requirements.txt  # quando disponivel na pasta do notebook
+pip install -r requirements.txt  # quando disponível na pasta do notebook
 ```
 
-## Licenca
+## Licença
 
-O codigo deste repositorio e disponibilizado para fins educacionais. Consulte cada notebook para detalhes especificos de licenciamento.
+O código deste repositório é disponibilizado para fins educacionais. Consulte cada notebook para detalhes específicos de licenciamento.
