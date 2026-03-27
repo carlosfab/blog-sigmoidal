@@ -1,0 +1,8 @@
+{
+  "normal_amostras_media": 170.04481544070057,
+  "normal_amostras_std": 7.971041406841272,
+  "binomial_conversoes_media": 5.0,
+  "poisson_prob_zero_bugs": 0.01831563888873418,
+  "poisson_prob_8_plus_bugs": 0.05113361579284725,
+  "exponencial_prob_10min": 0.1353352832366127
+}

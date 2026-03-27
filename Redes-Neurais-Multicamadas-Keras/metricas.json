@@ -1,0 +1,8 @@
+{
+  "accuracy_final": 0.9396571428571429,
+  "train_acc_final": 0.9474476190476191,
+  "epochs": 30,
+  "total_params": 109386,
+  "n_treino": 52500,
+  "n_teste": 17500
+}
