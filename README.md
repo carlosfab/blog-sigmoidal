@@ -43,6 +43,12 @@ Antes da carreira em dados, foi **piloto militar** com mais de 1.000 horas de vo
 | [k-NN para Classificação de Estrelas RR Lyrae](Implementing%20k-Nearest%20Neighbors%20for%20RR%20Lyrae%20Star%20Classification/implementing_k_nearest_neighbors_for_rr_lyrae_star_classification.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Implementing%20k-Nearest%20Neighbors%20for%20RR%20Lyrae%20Star%20Classification/implementing_k_nearest_neighbors_for_rr_lyrae_star_classification.ipynb) |
 | [Redshifts Fotométricos com k-NN](estimating_photometric_redshifts_using_knn.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/estimating_photometric_redshifts_using_knn.ipynb) |
 
+## Materiais adicionais
+
+| Material | Acesso |
+|----------|--------|
+| Segundo Cérebro com Claude Code e Obsidian | [Abrir prompt](Segundo-Cerebro-Claude-Code-Obsidian/) |
+
 ## Como usar
 
 Todos os notebooks podem ser executados diretamente no Google Colab. Basta abrir o notebook desejado e clicar no botão "Open in Colab" no topo do arquivo.
