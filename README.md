@@ -25,6 +25,7 @@ Antes da carreira em dados, foi **piloto militar** com mais de 1.000 horas de vo
 
 | Notebook | Abrir no Colab |
 |----------|----------------|
+| [YOLO26: Detecção de Objetos End-to-End](YOLO26-Deteccao-de-Objetos/yolo26_deteccao_objetos.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/YOLO26-Deteccao-de-Objetos/yolo26_deteccao_objetos.ipynb) |
 | [YOLO em imagens térmicas (POP)](YOLO-Imagens-Termicas-POP/yolo_imagens_termicas_pop.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/YOLO-Imagens-Termicas-POP/yolo_imagens_termicas_pop.ipynb) |
 | [Vision Transformer (ViT)](Vision-Transformer-ViT/vision_transformer_vit.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Vision-Transformer-ViT/vision_transformer_vit.ipynb) |
 | [Grad-CAM: Visualizando CNNs](Grad-CAM-Visualizando-CNNs/gradcam_visualizando_cnns.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosfab/blog-sigmoidal/blob/main/Grad-CAM-Visualizando-CNNs/gradcam_visualizando_cnns.ipynb) |
