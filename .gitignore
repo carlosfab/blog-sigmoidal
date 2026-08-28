@@ -177,6 +177,10 @@ pyrightconfig.json
 
 .DS_Store
 poetry.lock
+
+# Model weights downloaded during notebook execution
+*.pt
+
 Estimating Photometric Redshifts Using K-Nearest Neighbors/data/RRLyrae.fit
 Estimating Photometric Redshifts Using K-Nearest Neighbors/data/sdss_S82standards.npy
 Implementing k-Nearest Neighbors for RR Lyrae Star Classification/data/RRLyrae.fit
